@@ -1,0 +1,6 @@
+C:\Users\Nikola\Desktop\TheShop\TheShop\TheShop\bin\Debug\TheShop.exe.config
+C:\Users\Nikola\Desktop\TheShop\TheShop\TheShop\bin\Debug\TheShop.exe
+C:\Users\Nikola\Desktop\TheShop\TheShop\TheShop\bin\Debug\TheShop.pdb
+C:\Users\Nikola\Desktop\TheShop\TheShop\TheShop\obj\Debug\TheShop.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\TheShop\TheShop\TheShop\obj\Debug\TheShop.exe
+C:\Users\Nikola\Desktop\TheShop\TheShop\TheShop\obj\Debug\TheShop.pdb

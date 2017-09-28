@@ -42,14 +42,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChainOfResponsibility\ArticleReport.cs" />
+    <Compile Include="ChainOfResponsibility\EndSuplierHandler.cs" />
+    <Compile Include="Interfaces\IArticleRerpot.cs" />
+    <Compile Include="Interfaces\IArticleSupplier.cs" />
+    <Compile Include="Interfaces\ISupplierHandler.cs" />
+    <Compile Include="Models\Article.cs" />
+    <Compile Include="Models\Supplier.cs" />
+    <Compile Include="Models\Supplier1.cs" />
+    <Compile Include="Models\Supplier2.cs" />
+    <Compile Include="Models\Supplier3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShopService.cs" />
+    <Compile Include="Services\DatabaseDriver.cs" />
+    <Compile Include="Services\Loger.cs" />
+    <Compile Include="Services\ShopService.cs" />
+    <Compile Include="ChainOfResponsibility\SuplierHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
